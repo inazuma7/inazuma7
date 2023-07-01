@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **project design**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python** , **Outsystem** , **javaScript**
 
 - 📫 How to reach me **nuraleina77@gmail.com**
 
