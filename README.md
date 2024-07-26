@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **project Java Fullstack**
 
-- 🌱 I’m currently learning **JAVA** , **Python** , **Outsystem** , **javaScript**
+- 🌱 I’m currently learning **PHP** ,**JAVA** , **Python** , **Outsystem** , **javaScript**
 
 - 📫 How to reach me **nuraleina77@gmail.com**
 
