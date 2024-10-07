@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aleina</h1>
-<h3 align="center">A fresh grad software developer from Malaysia</h3>
+<h3 align="center">A fresh grad software engineer from Malaysia</h3>
 
 - 🔭 I’m currently working on **project Java Fullstack**
 
