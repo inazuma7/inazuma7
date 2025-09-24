@@ -29,7 +29,7 @@ Outside of coding, I enjoy **art 🎨, photography 📸, and being a collector �
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
   <!-- No official icons for Struts 1/2 & Hibernate, can use text badges instead -->
   <img src="https://img.shields.io/badge/Struts-1%2F2-blue?style=for-the-badge"/> 
-  <img src="https://img.shields.io/badge/Hibernate-ORM-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hibernate-yellow?style=for-the-badge"/>
 </p>  
 
 ---
