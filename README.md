@@ -1,10 +1,5 @@
 # Hi 👋, I'm Aleina  
 
-💻 **Software Engineer | Full-Stack Developer | Tech Enthusiast**  
-🌏 Based in Malaysia  
-
----
-
 ### 🌟 About Me  
 
 I’m a passionate Software Engineer with a Bachelor’s Degree in **Software Engineering**.  
